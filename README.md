@@ -30,7 +30,7 @@ L'échange avec d'autres passionnés est crucial pour résoudre des problèmes, 
 | **Discord - Lua Scripters**         | [Discord Lua Scripters](https://discord.com/invite/lua-scripters-561645196757041163)     | Un espace convivial pour discuter en temps réel, collaborer et obtenir de l’aide sur des problématiques spécifiques.             |
 
 ### 3. Gestion de Dépendances et Développement Spécifique
-Ces outils vous aideront à structurer vos projets et à développer des applications performantes en Lua.
+Ces outils aident à structurer les projets et à développer des applications performantes en Lua.
 
 | **Source**                      | **Lien**                                      | **Pourquoi l'utiliser ?**                                                                                  |
 |---------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Ces outils vous aideront à structurer vos projets et à développer des applica
 | **Solar2D (Corona SDK)**        | [Solar2D](https://solar2d.com)                 | Une ressource clé pour développer des jeux et applications mobiles grâce à Lua, avec une approche intuitive. |
 
 ### 4. Tutoriels et Formations Vidéo
-Pour ceux qui préfèrent apprendre en regardant et en écoutant, ces ressources pédagogiques vous guideront pas à pas dans l'univers de Lua.
+Pour ceux qui préfèrent apprendre en regardant et en écoutant, ces ressources pédagogiques permettent de naviguer pas à pas dans l'univers de Lua.
 
 | **Source**                             | **Lien**                                                                                                       | **Pourquoi la consulter ?**                                                                                                          |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Pour ceux qui préfèrent apprendre en regardant et en écoutant, ces ressources
 | **YouTube - GamesFromScratch**         | [GamesFromScratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyBAc9wBC85_WG9aT88KGxH8)                     | Des tutoriels concrets dédiés au développement de jeux en Lua, avec des démonstrations pratiques et des conseils avisés.                |
 
 ### 5. Suivi des Actualités
-Pour ne rien manquer des dernières tendances et nouveautés, ces outils vous permettront de rester informé en temps réel sur tout ce qui touche à Lua.
+Pour ne rien manquer des dernières tendances et nouveautés, ces outils permettent de rester informé en temps réel sur tout ce qui touche à Lua.
 
 | **Outil**                                       | **Lien**                                                       | **Pourquoi l'utiliser ?**                                                                                                  |
 |-------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
